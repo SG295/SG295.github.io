@@ -12,14 +12,20 @@ li {
 
 p {
     font-size: 18px;
+    /*background-color: aquamarine;
+    color: bisque;
+    padding: 10px;
+    border: solid 3px lightblue;
+    margin: 10px;
+    width: 125px;*/
+}
+
+a {
+    text-decoration: none;
     background-color: aquamarine;
     color: bisque;
     padding: 10px;
     border: solid 3px lightblue;
     margin: 10px;
     width: 125px;
-}
-
-a {
-    text-decoration: none;
 }
