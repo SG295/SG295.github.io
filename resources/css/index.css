@@ -9,6 +9,11 @@ h1 {
 p,
 li {
     font-size: 18px;
+    background-color: aquamarine;
+    color: bisque;
+    padding: 10px;
+    border: solid 3px blue;
+    margin: 10px;
 }
 
 a {
