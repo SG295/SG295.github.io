@@ -15,9 +15,9 @@ p {
     background-color: aquamarine;
     color: bisque;
     padding: 10px;
-    border: solid 3px blue;
+    border: solid 3px lightblue;
     margin: 10px;
-    width: 150px;
+    width: 125px;
 }
 
 a {
