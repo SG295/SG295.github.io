@@ -1,0 +1,40 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: darkgrey;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+li {
+    font-size: 18px;
+}
+
+p {
+    font-size: 18px;
+    /*background-color: aquamarine;
+    color: bisque;
+    padding: 10px;
+    border: solid 3px lightblue;
+    margin: 10px;
+    width: 125px;*/
+}
+
+a {
+    text-decoration: none;
+    background-color: forestgreen;
+    color: bisque;
+    padding: 10px;
+    border: solid 3px darkgreen;
+    margin: 10px;
+    width: 125px;
+}
+
+a:hover {
+    background-color: darkgreen;
+    border: solid 3px forestgreen; 
+}
