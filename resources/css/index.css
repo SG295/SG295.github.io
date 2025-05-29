@@ -3,7 +3,8 @@
 }
 
 body {
-    background-color: rgb(230, 230, 230)/*darkgrey;*/
+    background-color: darkgrey;
+    /* rgb(230, 230, 230) */
 }
 
 h1 {
